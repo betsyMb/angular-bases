@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+  background-color: rgb(71, 70, 70);
+  color: white;
+  height: 100vh;
+}
+
+.list-group-item {
+  background-color: rgb(95, 94, 94);
+  border-color: rgb(120, 118, 118);
+  color: #fff;
+}
